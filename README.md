@@ -29,8 +29,8 @@ I'm a database developer with 4+ years of hands-on experience designing, develop
 
 
 
-- 🔭 I’m currently working as freelance web developer 
-- 🌱 I’m currently learning django rest framework 
+- 🔭 I’m currently working as Database Consultant and freelance web developer 
+- 🌱 I’m currently learning Flask and django rest framework 
 - 👯 I’m looking to collaborate on this.
 - 🤔 I’m looking for help with multiple projects.
 - 💬 Ask me about data engineering and web application.
