@@ -21,7 +21,7 @@
 <br />
 <br />
 
-I'm a database developer with 4+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a database developer with 6+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 <br />
 
