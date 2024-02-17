@@ -21,7 +21,7 @@
 <br />
 <br />
 
-I'm a database developer with 6+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a database developer with 8+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 <br />
 
@@ -29,7 +29,7 @@ I'm a database developer with 6+ years of hands-on experience designing, develop
 
 
 
-- 🔭 I’m currently working as Database Consultant and freelance web developer 
+- 🔭 I’m currently working as Data Consultant and freelance web developer 
 - 🌱 I’m currently explorng Flask and django rest framework 
 - 👯 I’m looking to collaborate on this.
 - 🤔 I’m looking for help with multiple projects.
