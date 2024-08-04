@@ -29,8 +29,8 @@ I'm a Cloud Engineer and developer with 8+ years of hands-on experience designin
 
 
 
-- 🔭 I’m currently working as Data Consultant and freelance web developer 
-- 🌱 I’m currently explorng Flask and django rest framework 
+- 🔭 I’m currently working as Cloud Data Consultant and freelance Cloud application developer 
+- 🌱 I’m currently explorng Flask and django framework 
 - 👯 I’m looking to collaborate on this.
 - 🤔 I’m looking for help with multiple projects.
 - 💬 Ask me about data engineering and web application.
