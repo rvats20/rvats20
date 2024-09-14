@@ -21,7 +21,7 @@
 <br />
 <br />
 
-I'm a Cloud Engineer and developer with 8+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a Cloud Engineer and developer with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise based applications and solutions using a range of technologies and programming languages.
 <br />
 <br />
 
@@ -31,8 +31,8 @@ I'm a Cloud Engineer and developer with 8+ years of hands-on experience designin
 
 - 🔭 I’m currently working as Cloud Data Consultant and freelance Cloud application developer 
 - 🌱 I’m currently explorng Flask and django framework 
-- 👯 I’m looking to collaborate on this.
-- 🤔 I’m looking for help with multiple projects.
+- 👯 I’m looking to collaborate on highly sclable Cloud Native Application Development.
+- 🤔 I’m currently working on multiple projects with different Tech Stack.
 - 💬 Ask me about data engineering and web application.
 - 📫 How to reach me: rahul.kr20@live.com
 - 😄 Pronouns: He/Him
