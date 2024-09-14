@@ -17,9 +17,7 @@
 <a href="https://rvats20.hashnode.dev" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>
-<button onclick="location.href='yourfile.pdf'" type="button">
-         Download Resume</button>
-<a href="./yourfile.pdf" class="btn btn-primary" download> Download Resume </a>
+<a href="./yourfile.pdf" class="btn btn-dark" download> Download Resume </a>
 <br />
 <br />
 <br />
