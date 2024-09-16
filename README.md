@@ -17,7 +17,7 @@
 <a href="https://rvats20.hashnode.dev" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>
-<a href="./CV.pdf" class="button icon solid solo fa-arrow-down scrolly" download> Download Resume </a>
+<a href="https://docs.google.com/document/d/1hbct1aGSueWKaAmfU4ypFoub120bQhzQGsDfxrjwbYQ/edit?usp=sharing" button class="btn"><i class="fa fa-download"></i> download> Download Resume </a>
 <br />
 <br />
 <br />
