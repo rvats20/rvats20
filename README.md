@@ -19,7 +19,7 @@
 </a>
 <br />
 <br />
-<a href="https://docs.google.com/document/d/1hbct1aGSueWKaAmfU4ypFoub120bQhzQGsDfxrjwbYQ/edit?usp=sharing" button class="btn"><i class="fa fa-download"></i> Download Resume </a>
+<a href="https://drive.google.com/file/d/14dp0FUWG9xykgag66wU1T2rmeoj6p4dl/view?usp=sharing" button class="btn"><i class="fa fa-download"></i> My Resume </a>
 <br />
 <br />
 <br />
