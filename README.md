@@ -68,16 +68,16 @@ I'm a Cloud Engineer and developer with 8+ years of hands-on experience designin
      <img alt="Flask" src="https://img.shields.io/badge/Flask-02569B?style=for-the-badge&logo=flask&logoColor=white">
    </a>
   &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <a href="https://www.djangoproject.com//" target="_blank"> 
+   <img alt="Django" src="https://img.shields.io/badge/Django-FF6F00?style=for-the-badge&logo=Dgango&logoColor=black">
   </a>   
   &emsp;
   <a href="https://scikit-learn.org/" target="_blank">
     <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a> 
    &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-D00000?style=for-the-badge&logo=Pandas&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://pytorch.org/" target="_blank"> 
