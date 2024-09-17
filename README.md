@@ -96,7 +96,7 @@ I'm a Cloud Engineer and developer with 8+ years of hands-on experience designin
   &emsp;
     <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0000FF?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
   &emsp;
-<a href="https://www.docker.com/"><img alt="Docker" src ="https://img.shields.io/badge/docker-#FFFFFF?style=for-the-badge&logo=docker&logoColor=blue"></a>
+<a href="https://www.docker.com/"><img alt="Docker" src ="https://img.shields.io/badge/Docker-E5F2FC?style=for-the-badge&logo=docker&logoColor=blue"></a>
   &emsp;
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
   &emsp;
