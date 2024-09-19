@@ -23,11 +23,11 @@
 <br />
 <br />
 <br />
-
+<h2>From Cloud Containers to database Development.</h2>
 I work in the Domain of Cloud and Data with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise applications and management solutions using a range of technologies and programming languages.
 <br />
 <br />
-<h2>From Cloud Containers to database Development.</h2>
+
                         </header>
                         <p>I have been part in Cloud and Data Management & Consultanting firms with 8+ years of experience designing, developing and implementing Cloud and on-premise based applications.</p>
                         <ul class="actions">
