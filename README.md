@@ -27,7 +27,11 @@
 I provide my expertise in Cloud and Data Consultant with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise based applications and solutions using a range of technologies and programming languages.
 <br />
 <br />
-
+<h2>From Cloud Containers to database Development.</h2>
+                        </header>
+                        <p>They call me expert in Cloud and Data Management & Consultanting with 8+ years of experience designing, developing and implementing Cloud and on-premise based applications.</p>
+                        <ul class="actions">
+                            <li><a href="#" class="button">Hire me</a></li>
 
 
 
@@ -39,6 +43,14 @@ I provide my expertise in Cloud and Data Consultant with 8+ years of hands-on ex
 <li>- 💬 Ask me about data engineering and web application</li>
 <li>- 📫 How to reach me: rahul.kr20@live.com or rahul.rkumar23@gmail.com</li>
 <li>- 😄 Pronouns: He/Him</li>
+
+
+<br />
+<br />
+
+
+<br />
+<br />
 
 
 
