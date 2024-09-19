@@ -24,14 +24,14 @@
 <br />
 <br />
 
-I provide my expertise in Cloud and Data Consultant with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise based applications and solutions using a range of technologies and programming languages.
+I work in the Domain of Cloud and Data with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise applications and management solutions using a range of technologies and programming languages.
 <br />
 <br />
 <h2>From Cloud Containers to database Development.</h2>
                         </header>
-                        <p>They call me expert in Cloud and Data Management & Consultanting with 8+ years of experience designing, developing and implementing Cloud and on-premise based applications.</p>
+                        <p>I have been part in Cloud and Data Management & Consultanting firms with 8+ years of experience designing, developing and implementing Cloud and on-premise based applications.</p>
                         <ul class="actions">
-                            <li><a href="#" class="button">Hire me</a></li>
+                            <li><a href="#" class="button"></a></li>
 
 
 
