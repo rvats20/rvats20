@@ -28,10 +28,7 @@ I work in the Domain of Cloud and Data with 8+ years of hands-on experience desi
 <br />
 <br />
 
-                        </header>
-                        <p>I have been part in Cloud and Data Management & Consultanting firms with 8+ years of experience designing, developing and implementing Cloud and on-premise based applications.</p>
-                        <ul class="actions">
-                            <li><a href="#" class="button"></a></li>
+
 
 
 
