@@ -65,7 +65,7 @@ I work in the Domain of Cloud and Data with 8+ years of hands-on experience desi
 <br />
 <br />
 
-## 👉 
+
 ## 👉 Programming languages and Frameworks:
 <p text-align="left"> 
   &emsp;
