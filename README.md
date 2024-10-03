@@ -33,7 +33,7 @@ I work in the Domain of Cloud and Data with 8+ years of hands-on experience desi
 
 
 
-<li>- 🔭 I’m currently working as Cloud & Data Consultant and freelance Cloud application developer </li>
+<li>- 🔭 I’m working as Cloud & Data Consultant and freelance Cloud application developer </li>
 <li>- 🌱 I’m currently exploring Python framworks Flask and django framework </li>
 <li>- 👯 I’m looking to collaborate on highly sclable Cloud Native Application Development</li>
 <li>- 🤔 I’m currently working on multiple projects with different Tech Stack</li>
