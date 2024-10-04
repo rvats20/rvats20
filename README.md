@@ -93,9 +93,6 @@ I work in the Domain of Cloud and Data with 8+ years of hands-on experience desi
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-D00000?style=for-the-badge&logo=Pandas&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-  <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </a>
 </p>
 
 ### 👉 Databases & Cloud technologies I use:
@@ -106,8 +103,6 @@ I work in the Domain of Cloud and Data with 8+ years of hands-on experience desi
     <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0000FF?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
   &emsp;
     <a href="https://www.docker.com/"><img alt="Docker" src ="https://img.shields.io/badge/Docker-E5F2FC?style=for-the-badge&logo=docker&logoColor=blue"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
