@@ -1,4 +1,4 @@
-
+[
 <h1 align="center"><b>Welcome to my Profile </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p text-align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=32&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+github+page..&hearts;++;++Cloud+n+Data+Consultant,;WebApp+Developer,;AI+Engineer,;LLM+Researcher,;Love+to+Explore..&hearts"></a>
@@ -21,11 +21,11 @@
   <a href="rahul.rkumar@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-<a href="https://linkedin.com/in/rahul-vats1" target="_blank">
-<a href="https://rvats20.hashnode.dev" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
+  </a>
+  </a>
+  </a>
+</a>
+</a>
 </a>
 <br />
 <br />
@@ -34,7 +34,8 @@
 <br />
 <br />
 <h2> I focus on efficiency and scalability of Cloud Containers and databases</h2>
-I work in the Domain of Cloud and Data with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise applications and management solutions using a range of technologies and programming languages.
+<p>I work in the Domain of Cloud and Data with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise applications and management solutions using a range of technologies and programming languages.</p>
+<p> I have performed ETL activities, demonstrating expertise in data warehousing principles and data pipeline management.</p>
 <br />
 <br />
 
@@ -166,3 +167,4 @@ I work in the Domain of Cloud and Data with 8+ years of hands-on experience desi
 </p>
 
 
+](url)
