@@ -4,6 +4,12 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=32&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+github+page..&hearts;++;++Cloud+n+Data+Consultant,;WebApp+Developer,;AI+Engineer,;LLM+Researcher,;Love+to+Explore..&hearts"></a>
 </p>
 <br>
+<h2>I am a Cloud Engineer and AI/ML-Enthusiast based in Noida, India. As a skilled Cloud and Data Engineer.</h2>
+<p>I focus on efficiency and scalability of Cloud Containers and databases</p>
+<p>I work in the Domain of Cloud and Data with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise applications and management solutions using a range of technologies and programming languages.</p>
+<p> I have performed ETL activities, demonstrating expertise in data warehousing principles and data pipeline management.</p>
+<br />
+
 <h2 align="left">Connect with me:</h2>
 
 ###
@@ -34,11 +40,7 @@
 <br />
 <br />
  
-<h2>I am a Cloud Engineer and AI/ML-Enthusiast based in Noida, India. As a skilled Cloud and Data Engineer.</h2>
- <p>I focus on efficiency and scalability of Cloud Containers and databases</p>
-<p>I work in the Domain of Cloud and Data with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise applications and management solutions using a range of technologies and programming languages.</p>
-<p> I have performed ETL activities, demonstrating expertise in data warehousing principles and data pipeline management.</p>
-<br />
+
 <br />
 
 
