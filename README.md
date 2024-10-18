@@ -46,7 +46,7 @@ I work in the Domain of Cloud and Data with 8+ years of hands-on experience desi
 <li>- 🔭 I’m working as Cloud & Data Consultant and freelance Cloud application developer </li>
 <li>- 🌱 I’m currently exploring Python framworks Flask and django framework </li>
 <li>- 👯 I’m looking to collaborate on highly sclable Cloud Native Application Development</li>
-<li>- 🤔 I’m currently working on multiple projects with different Tech Stack</li>
+<li>- 🤔 I’m currently working on multiple projects with different LLM RAG's</li>
 <li>- 💬 Ask me about data engineering and web application</li>
 <li>- 📫 How to reach me: rahul.kr20@live.com or rahul.rkumar23@gmail.com</li>
 <li>- 😄 Pronouns: He/Him</li>
@@ -85,7 +85,7 @@ I work in the Domain of Cloud and Data with 8+ years of hands-on experience desi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgres/postgreSQL-original.svg" height="30" alt="postgreSQL logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" alt="sql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
