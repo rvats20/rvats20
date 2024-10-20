@@ -9,6 +9,7 @@
 <p>I work in the Domain of Cloud and Data with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise applications and management solutions using a range of technologies and programming languages.</p>
 <p> I have performed ETL activities, demonstrating expertise in data warehousing principles and data pipeline management.</p>
 <br />
+<br />
 
 
 <li> 🔭 I am currently working on Transformer Learning </li>
@@ -21,11 +22,13 @@
 
 
 
-
+<br />
+<br />
+<br />
 
 <h2 align="left">Connect with me:</h2>
   <p align="left">
-###
+<br />
     
   <a href="https://twitter.com/rahuldve20" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jarif84112354" height="30" width="40" />
@@ -56,6 +59,7 @@
   </p></div>
   </a>
   </a>
+  <br />
   <h3 align="left">Platforms:</h3>
   <p align="left">
     <img src="https://img.shields.io/badge/Kaggle-%23005A4E.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
@@ -71,6 +75,8 @@
   </p>
   </a>
   </a>
+  <br />
+  <br />
   <h3 align="left">Data Science Tools:</h3>
   <p align="left">
     <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
@@ -93,6 +99,9 @@
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
   </p>
   </a>
+  <br />
+  <br />
+  <br />
     <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -116,9 +125,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarif87&show_icons=true&locale=en&layout=compact" alt="rvats20" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&locale=en" alt="rvats20" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jarif87&" alt="rvats20" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvats20&show_icons=true&locale=en&layout=compact" alt="rvats20" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvats20&show_icons=true&locale=en" alt="rvats20" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rvats20&" alt="rvats20" />
 </p>
 </a>
 </a>
@@ -138,13 +147,7 @@
 
 
 
-<li>- 🔭 I’m working as Cloud & Data Consultant and freelance Cloud application developer </li>
-<li>- 🌱 I’m currently exploring Python framworks Flask and django framework </li>
-<li>- 👯 I’m looking to collaborate on highly sclable Cloud Native Application Development</li>
-<li>- 🤔 I’m currently working on multiple projects with different LLM RAG's</li>
-<li>- 💬 Ask me about data engineering and web application</li>
-<li>- 📫 How to reach me: rahul.kr20@live.com or rahul.rkumar23@gmail.com</li>
-<li>- 😄 Pronouns: He/Him</li>
+
 <br />
 <br />
 <br />
