@@ -10,6 +10,19 @@
 <p> I have performed ETL activities, demonstrating expertise in data warehousing principles and data pipeline management.</p>
 <br />
 
+
+<li> 🔭 I am currently working on Transformer Learning </li>
+<li> 🤝 I’m looking for help with deep learning and Transformer learning projects </li>
+<li> 🌱 I’m currently learning Deep Learning, Machine Learning, Data Science </li>
+<li> 💬 Ask me about AI, Deep Learning, Python </li>
+<li> 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rvats20) </li>
+<li> 📝 I regularly write articles on [Medium](https://medium.com/@sadikaljarif05) </li>
+<li> 📫 How to reach me: rahul.rkumar23@gmail.com </li>
+
+
+
+
+
 <h2 align="left">Connect with me:</h2>
   <p align="left">
 ###
@@ -132,17 +145,7 @@
 <li>- 💬 Ask me about data engineering and web application</li>
 <li>- 📫 How to reach me: rahul.kr20@live.com or rahul.rkumar23@gmail.com</li>
 <li>- 😄 Pronouns: He/Him</li>
-
-
 <br />
-<br />
-
-
-<br />
-<br />
-
-
-
 <br />
 <br />
 <br />
@@ -150,102 +153,6 @@
 <br />
 <br />
 
-
-
-<h2 align="center">Languages and Tools:</h2>
-
-###
-
-<h3 align="left">Programming and Scripting Languages</h3>
-
-###
-
-<div align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgres/postgreSQL-original.svg" height="30" alt="postgreSQL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" alt="sql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
-
-<h3 align="left">Frontend Development and Backend Development</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<h3 align="left">Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-## 👉 Programming languages and Frameworks:
-<p text-align="left"> 
-  &emsp;
-  <a href="https://js.dev/">
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-0175C2?style=for-the-badge&logo=javascript&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://python.org/">
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;
-  <a href="https://flask.dev/" target="_blank"> 
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-02569B?style=for-the-badge&logo=flask&logoColor=white">
-  </a>
-  &emsp; 
-  <a href="https://www.djangoproject.com/" target="_blank"> 
-  <img alt="Django" src="https://img.shields.io/badge/Django-FF6F00?style=for-the-badge&logo=Dgango&logoColor=black">
-  </a>   
-  &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-  <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a> 
-    &emsp;
-  <a href="https://pandas.pydata.org/" target="_blank"> 
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-D00000?style=for-the-badge&logo=Pandas&logoColor=white"/>
-  </a>
-  &emsp;
-</p>
-
-### 👉 Databases & Cloud technologies I use:
-<p text-align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0000FF?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.docker.com/"><img alt="Docker" src ="https://img.shields.io/badge/Docker-E5F2FC?style=for-the-badge&logo=docker&logoColor=blue"></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.terraform.io/"><img alt="Terraform" src ="https://img.shields.io/badge/terraform-0175C2?style=for-the-badge&logo=firebase&logoColor=Purple"></a>
-  &emsp;
-    <a href="https://www.postgresql.org//"><img alt="Postgresql" src ="https://img.shields.io/badge/postgresql-E5F2FC?style=for-the-badge&logo=postgresql&logoColor=black"></a>
     
 </p>
 
-
-](url)
