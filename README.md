@@ -1,4 +1,3 @@
-[
 <h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Rahul Vats</h1>
 <p text-align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=32&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+github+page..&hearts;++;++Cloud+n+Data+Consultant,;WebApp+Developer,;AI+Engineer,;LLM+Researcher,;Love+to+Explore..&hearts"></a>
