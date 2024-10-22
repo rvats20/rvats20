@@ -4,7 +4,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=32&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+github+page..&hearts;++;++Cloud+n+Data+Consultant,;WebApp+Developer,;AI+Engineer,;LLM+Researcher,;Love+to+Explore..&hearts"></a>
 </p>
 <br>
-<h2>I am a Cloud Engineer and AI/ML-Enthusiast based in Noida, India. As a skilled Cloud and Data Engineer.</h2>
+<h2>I am a Cloud Engineer and AI/ML-Enthusiast based in Noida, India.</h2>
 <p>I focus on efficiency and scalability of Cloud Containers and databases</p>
 <p>I work in the Domain of Cloud and Data with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise applications and management solutions using a range of technologies and programming languages.</p>
 <p> I have performed ETL activities, demonstrating expertise in data warehousing principles and data pipeline management.</p>
@@ -14,14 +14,15 @@
 
 <li> 🔭 I am currently working on Transformer Learning </li>
 <li> 🤝 I’m looking for help with deep learning and Transformer learning projects </li>
-<li> 🌱 I’m currently learning Deep Learning, Machine Learning, Data Science </li>
-<li> 💬 Ask me about AI, Deep Learning, Python </li>
-<li> 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rvats20) </li>
-<li> 📝 I regularly write articles on [Medium](https://medium.com/@sadikaljarif05) </li>
+<li> 🌱 I’m am gaining experience in learning Deep Learning, Machine Learning, Data Science </li>
+<li> 💬 Ask me about AI, Python, API and Cloud </li>
+<li> 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rahul-kumar20) </li>
+<li> 📝 I regularly write articles on [Hashnode](https://hashode.com/@rvats20) </li>
 <li> 📫 How to reach me: rahul.rkumar23@gmail.com </li>
+<br />
+<br />
 
-
-
+<a href="https://drive.google.com/file/d/14dp0FUWG9xykgag66wU1T2rmeoj6p4dl/view?usp=sharing" button class="btn"><i class="fa fa-download"></i> My Resume </a>
 <br />
 <br />
 <br />
@@ -104,12 +105,11 @@
   <br />
     <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
@@ -134,7 +134,7 @@
 </a>
 <br />
 <br />
-<a href="https://drive.google.com/file/d/14dp0FUWG9xykgag66wU1T2rmeoj6p4dl/view?usp=sharing" button class="btn"><i class="fa fa-download"></i> My Resume </a>
+
 <br />
 <br />
 <br />
@@ -156,6 +156,4 @@
 <br />
 <br />
 
-    
-</p>
 
