@@ -4,8 +4,10 @@
 </p>
 <br>
 <h2>I am a Cloud Engineer and AI/ML-Enthusiast based in Noida, India.</h2>
-<p>I focus on efficiency and scalability of Cloud Containers and databases</p>
-<p>I work in the Domain of Cloud and Data with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise applications and management solutions using a range of technologies and programming languages.</p>
+
+**I focus on efficiency and scalability of Cloud Containers and databases**
+
+>I work in the Domain of Cloud and Data with 8+ years of hands-on experience designing, developing and implementing Cloud and on-premise applications and management solutions using a range of technologies and programming languages.
 <p> I have performed ETL activities, demonstrating expertise in data warehousing principles and data pipeline management.</p>
 <br />
 <br />
