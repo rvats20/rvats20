@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Rahul Vats</h1>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com/?lines=SRE - Observability | Kernel Eng | eBPF ;Dev - Golang | Python | Rust;Ops - Monitoring | Sys Eng | Infra ;Passion - Webassembly | P2P | LLM;Phil - Cyber Eng (Hardware/Software)&font=Fira%20Code&color=e56e39&center=true&width=550&height=35&duration=1000&pause=500" alt="About me"><br />
-   <img src="https://komarev.com/ghpvc/?username=ProfileForSRamFanofElonmusk&color=orange" alt="Shreeram" />
+   <img src="https://readme-typing-svg.demolab.com/?lines=Data - Observability | Cloud Eng | AI/ML ;Dev - Javascript | Python | SQL;Ops - Monitoring | Sys Eng | Cloud ;Passion - Traveling | Sports | LLM;Phil - Cyber Eng (Hardware/Software)&font=Fira%20Code&color=e56e39&center=true&width=550&height=35&duration=1000&pause=500" alt="About me"><br />
+   <img src="https://komarev.com/ghpvc/?username=ProfileForrvats20FanofElonmusk&color=orange" alt="rahul" />
 </p>
 <br>
 
