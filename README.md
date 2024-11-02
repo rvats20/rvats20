@@ -6,15 +6,19 @@
 <p align="center">
    <img width=100% src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/kdtixp2oistnku7ervna.gif" alt="hor-colored-line">
 </p>
+<h2 align="left">About me</h2><h4>I am a Cloud Data Engineer and AI/ML-Enthusiast based in Noida, India.</h4><img align="right" height="280px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner">
 
-<h3 align="left">About me</h3><hr /><h4>I am a Cloud Engineer and AI/ML-Enthusiast based in Noida, India.</h4><img align="right" height="280px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner">
-
-<li> 🔭 I am currently working on RAG Apps, Transformers, MLOps, API & Cloud </li>
-<li> 🤝 I’m learning about deep learning and Transformer learning projects </li>
-<li> 🌱 I’m am gaining experience in learning Deep Learning, Machine Learning, Data Science </li>
-<li> 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rahulvats20) </li>
-<li> 📝 I regularly write articles on [Hashnode](https://hashode.com/@rvats20) </li>
-<li> 📫 How to reach me: rahul.rkumar23@gmail.com </li>
+ 🔭 I am currently working on RAG Apps, Transformers, MLOps, API & Cloud.
+ 
+ 🤝 I’m learning about deep learning and Transformer learning projects.
+ 
+ 🌱 I’m am gaining experience in learning Deep Learning, Machine Learning, Data Science.
+ 
+ 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rahulvats20)
+ 
+ 📝 I regularly write articles on [Hashnode](https://hashode.com/) 
+ 
+ 📫 Post any question or query [Here](https://github.com/rvats20/rvats20/issues)
 <br />
 <br />
 <br />
