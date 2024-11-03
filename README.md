@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Rahul Vats</h1>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com/?lines=Data - Observability | Cloud Eng | Database ;Dev - Javascript | Python | SQL;Ops - Monitoring | Sys Eng | Cloud ;Passion - LLM | RAG Apps | Machine Learning;&font=Fira%20Code&color=e56e39&center=true&width=550&height=35&duration=1000&pause=500" alt="About me"><br />
+   <img src="https://readme-typing-svg.demolab.com/?lines=Data - Observability | Cloud Eng | Database ;Dev - Javascript | Python | SQL;Ops - Monitoring | Sys Eng | Cloud ;Passion - LLM | RAG Apps | Machine Learning;&font=Fira%20Code&color=e56e39&center=true&width=550&height=35&duration=1000&pause=500" alt="About me">
 </p>
 <p align="center">
    <img width=100% src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/kdtixp2oistnku7ervna.gif" alt="hor-colored-line">
@@ -19,7 +19,6 @@
  📝 I regularly write articles on [Hashnode](https://hashode.com/) 
  
  📫 Post any question or query [Here](https://github.com/rvats20/rvats20/issues)
-<br />
 <br />
 <br />
 <a align="center" href="https://drive.google.com/file/d/14dp0FUWG9xykgag66wU1T2rmeoj6p4dl/view?usp=sharing" button class="btn"><i class="fa fa-download"></i> My Resume </a>
@@ -62,14 +61,14 @@
 
 <p align="right">
   <h3>My Projects </h3>
-    <a href="https://github.com/iamshreeram/human-gender-detection"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=iamshreeram&repo=human-gender-detection&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="human-gender-detection"></a>
-    <a href="https://github.com/iamshreeram/go-kafka-stream"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=iamshreeram&repo=go-kafka-stream&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="go-kafka-stream"></a>
-    <a href="https://github.com/iamshreeram/app-mon"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=iamshreeram&repo=app-mon&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="app-mon"></a>
-    <a href="https://github.com/iamshreeram/simple-portfolio-page"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=iamshreeram&repo=simple-portfolio-page&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-portfolio-page"></a>
-    <a href="https://github.com/iamshreeram/jmeter-plugin-slack-sender"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=iamshreeram&repo=jmeter-plugin-slack-sender&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="jmeter-plugin-slack-sender"></a>
-    <a href="https://github.com/iamshreeram/twitter-senti-analyzer"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=iamshreeram&repo=twitter-senti-analyzer&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="twitter-senti-analyzer"></a>
-    <a href="https://github.com/iamshreeram/executor-service"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=iamshreeram&repo=executor-service&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="executor-service"></a>   
-    <a href="https://github.com/iamshreeram/php-ssl-installer"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=iamshreeram&repo=php-ssl-installer&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="php-ssl-installer"></a>
+    <a href="https://github.com/rvats20/python-financial-analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-financial-analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"alt="python-financial-analysis"></a>
+    <a href="https://github.com/rvats20/RAG-LLM-APP"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=RAG-LLM-APP&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="RAG-LLM-APP"></a>
+    <a href="https://github.com/rvats20/python-financial-analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-financial-analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="python-financial-analysis"></a>
+    <a href="https://github.com/rvats20/python-financial-analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-financial-analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="python-financial-analysis"></a>
+    <a href="https://github.com/rvats20/python-financial-analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-financial-analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="python-financial-analysis"></a>
+    <a href="https://github.com/rvats20/python-financial-analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-financial-analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="python-financial-analysis"></a>
+    <a href="https://github.com/rvats20/python-financial-analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-financial-analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="python-financial-analysis"></a>   
+    <a href="https://github.com/rvats20/python-financial-analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-financial-analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="python-financial-analysis"></a>
     <a href="https://github.com/iamshreeram/mini-domain"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=iamshreeram&repo=mini-domain&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="mini-domain"></a>
   
   </p>
