@@ -6,13 +6,13 @@
 <p align="center">
    <img width=100% src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/kdtixp2oistnku7ervna.gif" alt="hor-colored-line">
 </p>
-<h2 align="left">About me</h2><h4>I am a Cloud Data Engineer and AI/ML-Enthusiast based in Noida, India.</h4><img align="right" height="280px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner">
+<h2 align="left">About me:</h2><h4>I am a Seasoned Cloud and Data Professional and AI & ML Expert based in Noida, India.</h4><img align="right" height="280px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner">
 
  🔭 I am currently working on RAG Apps, Transformers, MLOps, API & Cloud.
  
- 🤝 I’m learning about deep learning and Transformer learning projects.
+ 🤝 I’m learning about computer vision and Multimodel LLM's.
  
- 🌱 I’m am gaining experience in learning Deep Learning, Machine Learning, Data Science.
+ 🌱 I’m am gaining experience in learning Deep Learning, Machine Learning, predictive analysis.
  
  👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rahulvats20)
  
@@ -52,16 +52,13 @@
   </a>
   <a href="https://discord.gg/rahul1vats" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-  <a href="https://developers.google.com/profile/u/rvats20" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rvats20/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Google" height="30" width="40" />
+  </a>  
   </a>
   <br />
 <img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
-
 <p align="right">
   <h3>My Projects </h3>
-    <a href="https://github.com/rvats20/python-financial-analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-financial-analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"alt="python-financial-analysis"></a>
+    <a href="https://github.com/rvats20/Python-Financial-Analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Python-Financial-Analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"alt="Python-Financial-Analysis"></a>
     <a href="https://github.com/rvats20/RAG-LLM-APP"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=RAG-LLM-APP&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="RAG-LLM-APP"></a>
     <a href="https://github.com/rvats20/python-financial-analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-financial-analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="python-financial-analysis"></a>
     <a href="https://github.com/rvats20/python-financial-analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-financial-analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="python-financial-analysis"></a>
