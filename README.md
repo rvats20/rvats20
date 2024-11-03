@@ -81,7 +81,8 @@
 <br />
     <h3 align="left">Certificatoins:</h3><hr />
 <p align="left">
-<img align="center" height="200px" width="200px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780042/my-assets/s8ivj1c1h6wnkvlx1yal.gif" alt="biotech">
+<img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/ccm.jpg" alt="Cloud Administrator">
+   <img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/pcm.jpg" alt="Python Certification">
 <br />
   </p>
   </a>
