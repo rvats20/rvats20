@@ -19,7 +19,7 @@
  📝 I regularly write articles on [Hashnode](https://hashode.com/) 
  
  📫 Post any question or query [Here](https://github.com/rvats20/rvats20/issues)
-<br />
+< />
 <br />
 <a align="center" href="https://drive.google.com/file/d/14dp0FUWG9xykgag66wU1T2rmeoj6p4dl/view?usp=sharing" button class="btn"><i class="fa fa-download"></i> My Resume </a>
 <br />
