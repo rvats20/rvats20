@@ -76,9 +76,9 @@
     <h3 align="left">Certificatoins:</h3><hr />
 <p align="left">
 <img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/ccm.jpg" alt="Cloud Administrator">
-</a>   
+</a><br />
 <img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/pcm.jpg" alt="Python Certification">
-</a>
+</a><br />
 <img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/py-ollama.jpg" alt="Python Certification">
 <br>
   </p>
