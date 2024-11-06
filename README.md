@@ -23,7 +23,7 @@
 <a align="center" href="https://drive.google.com/file/d/14dp0FUWG9xykgag66wU1T2rmeoj6p4dl/view?usp=sharing" button class="btn"><i class="fa fa-download"></i> My Resume </a>
 <br />
 <img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><hr />
 <p align="left">  
   <a href="https://twitter.com/rahuldve20" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jarif84112354" height="30" width="40" />
@@ -56,7 +56,7 @@
   <br />
 <img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
 <p align="right">
-  <h3>My Projects </h3>
+  <h3>My Projects </h3><hr />
     <a href="https://github.com/rvats20/Python-Financial-Analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Python-Financial-Analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Python-Financial-Analysis"></a>
     <a href="https://github.com/rvats20/RAG-LLM-APP"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=RAG-LLM-APP&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="RAG-LLM-APP"></a>
     <a href="https://github.com/rvats20/Advance_Python_Learning"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Advance_Python_Learning&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Advance_Python_Learning"></a>
@@ -69,21 +69,19 @@
   
   </p>
 
-  </p>
-  </a>
- 
-<img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
-    <h3 align="left">Certificatoins:</h3><hr />
-<p align="left">
-<img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/ccm.jpg" alt="Cloud Administrator">
-</a><br />
-<img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/pcm.jpg" alt="Python Certification">
-</a><br />
-<img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/py-ollama.jpg" alt="Python Certification">
+  </p> 
+   <img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
+       <h3 align="left">Certificatoins:</h3><hr />
+   <p align="left">
+   <img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/ccm.jpg" alt="Cloud Administrator">
+   
+   <img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/pcm.jpg" alt="Python Certification">
+   
+   <img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/py-ollama.jpg" alt="Python Certification">
 <br>
   </p>
   </a>
-
+<hr />
   <br />
     <h3 align="left">Languages and Framework:</h3><hr />
 <p align="left">
