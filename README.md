@@ -1,5 +1,4 @@
 <h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Rahul Vats</h1>
-
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com/?lines=Data - Observability | Cloud Eng | Database ;Dev - Javascript | Python | SQL;Ops - Monitoring | Sys Eng | Cloud ;Passion - LLM | RAG Apps | Machine Learning;&font=Fira%20Code&color=e56e39&center=true&width=550&height=35&duration=1000&pause=500" alt="About me">
 </p>
@@ -72,18 +71,16 @@
 
   </p>
   </a>
-  </a>
-  <br />
-
+ 
 <img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
-
-<br /><br />
-<br />
     <h3 align="left">Certificatoins:</h3><hr />
 <p align="left">
 <img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/ccm.jpg" alt="Cloud Administrator">
-   <img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/pcm.jpg" alt="Python Certification">
-<br />
+</a>   
+<img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/pcm.jpg" alt="Python Certification">
+</a>
+<img align="center" height="180px" width="200px" src="https://github.com/rvats20/rvats20/blob/master/py-ollama.jpg" alt="Python Certification">
+<br>
   </p>
   </a>
 
@@ -114,6 +111,7 @@
   <img height="110em" src="https://github-readme-stats.vercel.app/api?username=rvats20&show_icons=true&locale=en" alt="rvats20" />
   <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=rvats20&" alt="rvats20" />
 </p>
+<img src="https://komarev.com/ghpvc/?username=ProfileForrvats20FanofElonmusk&color=orange" alt="rahul" />
 </a>
 </a>
 </a>
@@ -149,7 +147,7 @@
 <hr />
 <br />
 <br />
- <img src="https://komarev.com/ghpvc/?username=ProfileForrvats20FanofElonmusk&color=orange" alt="rahul" />
+ 
 
 <br />
 
