@@ -1,7 +1,4 @@
-<h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Rahul Vats</h1>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com/?lines=Data - Observability | Cloud Eng | Database ;Dev - Javascript | Python | SQL;Ops - Monitoring | Sys Eng | Cloud ;Passion - LLM | RAG Apps | Machine Learning;&font=Fira%20Code&color=e56e39&center=true&width=550&height=35&duration=1000&pause=500" alt="About me">
-</p>
+<h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Rahul Vats</b></h1>
 <p align="center">
    <img width=100% src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/kdtixp2oistnku7ervna.gif" alt="hor-colored-line">
 </p>
