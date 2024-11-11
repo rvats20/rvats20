@@ -2,7 +2,7 @@
 <p align="center">
    <img width=100% src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/kdtixp2oistnku7ervna.gif" alt="hor-colored-line">
 </p>
-<h2 align="left">About me:</h2><h4>I am a Seasoned Cloud and Data Professional and AI & ML Expert based in Noida, India.</h4><img align="right" height="280px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner">
+<h2 align="left">About me:</h2><h4>I am a Seasoned Cloud and Data Professional and AI & ML Expert based in Noida, India.</h4><img align="right" height="240px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner">
 
  🔭 I am currently working on RAG Apps, Transformers, MLOps, API & Cloud.
  
@@ -98,6 +98,8 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/></a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> </a>
 </p><hr />
 <br/>
 <h3 align="left">GitHub Stats:</h3>
