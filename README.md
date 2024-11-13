@@ -2,22 +2,23 @@
 <p align="center">
    <img width=100% src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/kdtixp2oistnku7ervna.gif" alt="hor-colored-line">
 </p>
-<h2 align="left">About me:</h2><h4>I am a Cloud and Data Professional currently working with insightsoftware and I love doing AI & ML research and integrate my knowledge with it. I am based in Noida, India.</h4><img align="right" height="240px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner">
+<h2 align="left"> About me:</h2><h4>I am a Cloud and Data Professional currently working with insightsoftware and I love doing AI & ML research and integrate my knowledge with it. I am based in Noida, India.</h4><img align="right" height="240px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner">
 
  🔭 I am currently working on RAG Apps, HF-Transformers, MLOps, Python & Cloud.
  
  🤝 I’m learning about computer vision and Multimodel LLM's.
  
  🌱 I’m am gaining experience in learning Deep Learning, Machine Learning, predictive analysis.
+
+ 📝 If you wanna know more, then click [Detailed-Info](https://rvats20.github.io/portfolio/Aboutme.html) 
  
  👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rahulvats20)
  
- 📝 I regularly write articles on [Hashnode](https://hashode.com/) 
- 
- 📫 Post any question or query [Here](https://github.com/rvats20/rvats20/issues)
+  📫 Post any question or query [Here](https://github.com/rvats20/rvats20/issues)
 <br />
 <br />
-<a align="center" href="https://drive.google.com/file/d/14dp0FUWG9xykgag66wU1T2rmeoj6p4dl/view?usp=sharing" button class="btn"><i class="fa fa-download"></i> My Resume </a>
+<br />
+<br />
 <br />
 <img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
 <h3 align="left">Connect with me:</h3><hr />
@@ -61,13 +62,13 @@
     <a href="https://github.com/rvats20/streamlit-Dashboard"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=streamlit-Dashboard&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="streamlit-Dashboard"></a>
     <a href="https://github.com/rvats20/Prompt-Engineering-Guide"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Prompt-Engineering-Guide&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Prompt-Engineering-Guide"></a>
     <a href="https://github.com/rvats20/Airline-Dashboard"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Airline-Dashboard&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Airline-Dashboard"></a>   
-    <a href="https://github.com/rvats20/CodeCanvas"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=CodeCanvas&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="photo2cartoon"></a>
-    <a href="https://github.com/rvats20/Jane-Street-Real-Time-Market-Data-Forecasting"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Jane-Street-Real-Time-Market-Data-Forecasting&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Jane Street Market Data Forcasting"></a>  
+    <a href="https://github.com/rvats20/CodeCanvas"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=CodeCanvas&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="photo2cartoon"></a>
+    <a href="https://github.com/rvats20/Jane-Street-Real-Time-Market-Data-Forecasting"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Jane-Street-Real-Time-Market-Data-Forecasting&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="Jane Street Market Data Forcasting"></a>  
   </p>
 
 <hr />
-  <br />
-    <h3 align="left">Languages and Framework:</h3><hr />
+<br />
+ <h3 align="left">Languages and Framework:</h3><hr />
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
