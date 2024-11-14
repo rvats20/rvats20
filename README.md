@@ -18,9 +18,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
+
 <h3 align="left">Connect with me:</h3><hr />
 <p align="left">  
   <a href="https://twitter.com/rahuldve20" target="blank">
@@ -65,8 +63,6 @@
     <a href="https://github.com/rvats20/CodeCanvas"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=CodeCanvas&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="photo2cartoon"></a>
     <a href="https://github.com/rvats20/python-keystore-eth"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-keystore-eth&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="Python Keystore Eth"></a>  
   </p>
-
-<hr />
 <br />
  <h3 align="left">Languages and Framework:</h3><hr />
 <p align="left">
@@ -128,10 +124,11 @@
     <img src="https://img.shields.io/badge/Deep%20Note-000000.svg?style=flat&logo=deepnote&logoColor=white" alt="Deep Note" />
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
     <img src="https://img.shields.io/badge/Jupyter%20Lab-F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Lab" />
+<br />
+<br />
+<img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
+<hr />
+<br />
 
-<br />
-<br />
-<br />
-<br />
 
 
