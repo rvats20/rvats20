@@ -16,7 +16,6 @@
  
   📫 Post any question or query [Here](https://github.com/rvats20/rvats20/issues)
 <br />
-<hr/>
 <h3 align="left">Connect with me:</h3><hr />
 <p align="left">  
   <a href="https://twitter.com/rahuldve20" target="blank">
@@ -46,7 +45,6 @@
   <a href="https://discord.gg/rahul1vats" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>  
-  </a>
   <br />
 <img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
 <p align="right">
@@ -61,7 +59,7 @@
     <a href="https://github.com/rvats20/CodeCanvas"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=CodeCanvas&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="photo2cartoon"></a>
     <a href="https://github.com/rvats20/python-keystore-eth"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-keystore-eth&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="Python Keystore Eth"></a>  
   </p>
-<br />
+<hr />
  <h3 align="left">Languages and Framework:</h3><hr />
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
