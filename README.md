@@ -16,9 +16,7 @@
  
   📫 Post any question or query [Here](https://github.com/rvats20/rvats20/issues)
 <br />
-<br />
-<br />
-
+<hr/>
 <h3 align="left">Connect with me:</h3><hr />
 <p align="left">  
   <a href="https://twitter.com/rahuldve20" target="blank">
