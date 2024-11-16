@@ -48,7 +48,7 @@
   <br />
 <img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
 <p align="right">
-  <h3>My Projects </h3><hr />
+  <h3>My Projects </h3>
     <a href="https://github.com/rvats20/Python-Financial-Analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Python-Financial-Analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="Python-Financial-Analysis"></a>
     <a href="https://github.com/rvats20/RAG-LLM-APP"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=RAG-LLM-APP&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="RAG-LLM-APP"></a>
     <a href="https://github.com/rvats20/Advance_Python_Learning"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Advance_Python_Learning&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="Advance_Python_Learning"></a>
@@ -60,7 +60,7 @@
     <a href="https://github.com/rvats20/python-keystore-eth"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-keystore-eth&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="Python Keystore Eth"></a>  
   </p>
 <hr />
- <h3 align="left">Languages and Framework:</h3><hr />
+ <h3 align="left">Languages and Framework:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
@@ -94,7 +94,7 @@
 </a>
 <br />
 <hr />
-  <h3 align="left">AI & ML Tools and Platforms:</h3><hr />
+  <h3 align="left">AI & ML Tools and Platforms:</h3>
   <p align="left">
     <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
     <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
@@ -123,7 +123,6 @@
 <br />
 <br />
 <img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
-<hr />
 <br />
 
 
