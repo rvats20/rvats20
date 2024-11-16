@@ -8,7 +8,7 @@
  
  🤝 I’m learning about computer vision and Multimodel LLM's.
  
- 🌱 I’m am gaining experience in learning Deep Learning, Machine Learning, predictive analysis.
+ 🌱 I’m am gaining experience in learning Deep Learning, predictive analysis.
 
  📝 If you wanna know more?, then click here [Detailed-Info](https://rvats20.github.io/portfolio/Aboutme.html) 
  
