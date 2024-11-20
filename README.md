@@ -11,7 +11,7 @@
  🌱 I’m am gaining experience in learning Deep Learning, predictive analysis.
  
 
- 📝 Wanna know more?, then click here [Detailed-Info](https://rvats20.github.io/portfolio/Aboutme.html) 
+ 📝 Wanna know more?, click here [Detailed-Info](https://rvats20.github.io/portfolio/Aboutme.html) 
  
  👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rahulvats20)
  
