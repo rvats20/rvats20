@@ -4,7 +4,7 @@
 </p>
 <h2 align="left"> LET'S KNOW MORE ABOUT ME:</h2><h4>I am a Cloud and Data Professional based in Noida, India and currently working with insightsoftware. I love doing AI & ML research and integrate my experience with it.</h4><img align="right" height="240px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner">
 
- 🔭 I am currently working on RAG Agents, HF-Transformers, MLOps, Python & Cloud.
+ 🔭 I am currently working on RAG Agents, HF-Transformers, MLOps & Python.
  
  🤝 I’m learning about computer vision and Multimodel LLM's.
  
