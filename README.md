@@ -85,7 +85,6 @@
 <br/>
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvats20&show_icons=true&locale=en&layout=compact" alt="rvats20" />
   <img height="110em" src="https://github-readme-stats.vercel.app/api?username=rvats20&show_icons=true&locale=en" alt="rvats20" />
   <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=rvats20&" alt="rvats20" />
 </p>
