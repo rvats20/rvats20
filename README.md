@@ -94,30 +94,6 @@
 </a>
 <br />
 <hr />
-  <h3 align="left">AI & ML Tools and Platforms:</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Matplotlib-007ACC.svg?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-    <img src="https://img.shields.io/badge/Seaborn-0083C4.svg?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />
-    <img src="https://img.shields.io/badge/Plotly-3F4B6D.svg?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
-    <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
-    <img src="https://img.shields.io/badge/BeautifulSoup-FFD700.svg?style=flat&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup" />
-    <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
-    <img src="https://img.shields.io/badge/FastAI-003A5D.svg?style=flat&logo=fastai&logoColor=white" alt="FastAI" />
-    <img src="https://img.shields.io/badge/HuggingFace-F7A9A6.svg?style=flat&logo=huggingface&logoColor=white" alt="HuggingFace" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/Keras-D00000.svg?style=flat&logo=keras&logoColor=white" alt="Keras" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/Kaggle-%23005A4E.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
-    <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=flat&logo=googlecolab&logoColor=white" alt="Colab" />
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
-    <img src="https://img.shields.io/badge/Deep%20Note-000000.svg?style=flat&logo=deepnote&logoColor=white" alt="Deep Note" />
-    <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-    <img src="https://img.shields.io/badge/Jupyter%20Lab-F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Lab" />
 <br />
 <br />
 <img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
