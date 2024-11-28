@@ -111,13 +111,11 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
     <img src="https://img.shields.io/badge/Keras-D00000.svg?style=flat&logo=keras&logoColor=white" alt="Keras" />
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat&logo=powerbi&logoColor=white" alt="Power BI" />
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
     <img src="https://img.shields.io/badge/Kaggle-%23005A4E.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
     <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=flat&logo=googlecolab&logoColor=white" alt="Colab" />
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" />
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
-    <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=flat&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
     <img src="https://img.shields.io/badge/Deep%20Note-000000.svg?style=flat&logo=deepnote&logoColor=white" alt="Deep Note" />
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
     <img src="https://img.shields.io/badge/Jupyter%20Lab-F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Lab" />
