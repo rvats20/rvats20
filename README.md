@@ -95,7 +95,7 @@
 <br />
 <hr />
 <br />
-# Wanna Know More about Me? about me, click here [Detailed-Info](https://rvats20.github.io/portfolio/Aboutme.html) 
+# Wanna Know More, click here [Detailed-Info](https://rvats20.github.io/portfolio/Aboutme.html) 
 <br />
 <img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
 <br />
