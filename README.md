@@ -10,14 +10,23 @@
  
  🌱 I’m am gaining experience in learning Deep Learning, predictive analysis.
 
+   
+   <h1> if you can reach the top of the mountain then change the way, not the maountain.</h1>
+
+
+📝 Lets' know more about me, click here [Detailed-Info](https://rvats20.github.io/portfolio/Aboutme.html) 
+
+
  
  📝 All of my articles/blogposts are available ast [Hashnode](https://rvats20.hashnode.dev/?source=top_nav_blog_home)
 
- 📝 Lets' know more about me, click here [Detailed-Info](https://rvats20.github.io/portfolio/Aboutme.html) 
+ 
  
  👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rahulvats20)
   
   📫 Post any question or query [Here](https://github.com/rvats20/rvats20/issues)
+  
+<br />
 <br />
 <h3 align="left">Connect with me:</h3><hr />
 <p align="left">  
