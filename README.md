@@ -80,6 +80,11 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> </a>
 </p><hr />
 <br/>
+<h3 align="left"> Curate list of blogposts:
+<br />
+   1. DJango Blog Application : click here [Detailed-Info](https://rvats20.hashnode.dev/building-a-blog-post-application-in-django-easy-tutorial)
+<hr />
+<br/>
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img height="110em" src="https://github-readme-stats.vercel.app/api?username=rvats20&show_icons=true&locale=en" alt="rvats20" />
