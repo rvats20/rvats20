@@ -11,7 +11,7 @@
  🌱 I’m am gaining experience in learning Deep Learning, predictive analysis.
 
    
-   <h1> practice what you preach, said by mahatma.</h1>
+
 
 
 📝 Lets' know more about me, click here [Detailed-Info](https://rvats20.github.io/portfolio/Aboutme.html) 
