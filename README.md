@@ -11,7 +11,7 @@
  🌱 I’m am gaining experience in learning Deep Learning, predictive analysis.
 
    
-   <h1> if you can reach the top of the mountain then change the way, not the maountain.</h1>
+   <h1> practice what you preach, said by mahatma.</h1>
 
 
 📝 Lets' know more about me, click here [Detailed-Info](https://rvats20.github.io/portfolio/Aboutme.html) 
