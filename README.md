@@ -9,12 +9,14 @@
  🤝 I’m learning about computer vision and Multimodel LLM's.
  
  🌱 I’m am gaining experience in learning Deep Learning, predictive analysis.
+
  
+ 📝 All of my articles/blogposts are available ast [Hashnode](https://rvats20.hashnode.dev/?source=top_nav_blog_home)
 
  📝 Lets' know more about me, click here [Detailed-Info](https://rvats20.github.io/portfolio/Aboutme.html) 
  
  👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rahulvats20)
- 
+  
   📫 Post any question or query [Here](https://github.com/rvats20/rvats20/issues)
 <br />
 <h3 align="left">Connect with me:</h3><hr />
@@ -80,9 +82,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> </a>
 </p><hr />
 <br/>
-<h3 align="left"> Curate list of blogposts:
-<br />
-   1. DJango Blog Application : click here [Complete-Post](https://rvats20.hashnode.dev/building-a-blog-post-application-in-django-easy-tutorial)
 <hr />
 <br/>
 <h3 align="left">GitHub Stats:</h3>
