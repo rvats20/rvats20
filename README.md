@@ -82,7 +82,7 @@
 <br/>
 <h3 align="left"> Curate list of blogposts:
 <br />
-   1. DJango Blog Application : click here [Detailed-Info](https://rvats20.hashnode.dev/building-a-blog-post-application-in-django-easy-tutorial)
+   1. DJango Blog Application : click here [Complete-Post](https://rvats20.hashnode.dev/building-a-blog-post-application-in-django-easy-tutorial)
 <hr />
 <br/>
 <h3 align="left">GitHub Stats:</h3>
