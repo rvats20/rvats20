@@ -18,7 +18,7 @@
 
 
  
- 📝 All of my articles/blogposts are available ast [Hashnode](https://rvats20.hashnode.dev/?source=top_nav_blog_home)
+ 📝 All of my blogposts are available ast [Hashnode](https://rvats20.hashnode.dev/?source=top_nav_blog_home)
 
  
  
