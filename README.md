@@ -14,7 +14,7 @@
 
 
 
-📝 Lets' know more about me, click here [Detailed-Info](https://rvats20.github.io/portfolio/Aboutme.html) 
+📝 Lets' know more about me, click here [Detailed-Info](https://rvats.in) 
 
 
  
