@@ -2,7 +2,7 @@
 <p align="center">
    <img width=100% src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/kdtixp2oistnku7ervna.gif" alt="hor-colored-line">
 </p>
-<h2 align="left">ABOUT ME:</h2><h4>I am a Cloud and Data Professional based in Noida, India and currently working with insightsoftware. I love doing AI & ML research and integrate my experience with it.</h4><img align="right" height="240px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner">
+<h2 align="left">KNOW MORE ABOUT ME:</h2><h4>I am a Cloud and Data Professional based in Noida, India and currently working with insightsoftware. I love doing AI & ML research and integrate my experience with it.</h4><img align="right" height="240px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner">
 
  🔭 I am currently working on RAG Agents, HF-Transformers, MLOps & Python.
  
