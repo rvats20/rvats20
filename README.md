@@ -6,7 +6,7 @@
 
  🔭 I am currently working on RAG Agents, HF-Transformers, MLOps & Python.
  
- 🤝 I’m learning about computer vision and Multimodel LLM's....
+ 🤝 I’m learning about computer vision and Multimodel LLM's.
  
  🌱 I’m am gaining experience in learning Deep Learning, predictive analysis.
 
