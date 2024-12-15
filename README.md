@@ -4,7 +4,7 @@
 </p>
 <h2 align="left">ABOUT ME:</h2><h4>I am an AI-ML Professional based in Noida, India. Currently working as Cloud Engineer.<br /> I love doing AI & ML research and integrate my experience with it.</h4><img align="right" height="280px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner">
 
- 🔭 I am currently working on RAG Agents, HF-Transformers, MLOps & Python.
+ 🔭 I am currently working on RAG Agents, HF-Transformers & MLOp.
  
  🤝 I’m learning about computer vision and Multimodel LLM's.
  
