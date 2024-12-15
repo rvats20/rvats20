@@ -18,17 +18,17 @@
 
 
  
- 📝 All of my blogposts are available ast [Hashnode](https://rvats20.hashnode.dev/?source=top_nav_blog_home)
+📝 All of my blogposts are available ast [Hashnode](https://rvats20.hashnode.dev/?source=top_nav_blog_home)
 
  
  
- 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rahulvats20)
+👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rahulvats20)
   
-  📫 Post any question or query [Here](https://github.com/rvats20/rvats20/issues)
+📫 Post any question or query [Here](https://github.com/rvats20/rvats20/issues)
   
 <br />
 <br />
-<h3 align="left">Connect with me:</h3><hr />
+<h3 align="left">Connect with me:</h3><br />
 <p align="left">  
   <a href="https://twitter.com/rahuldve20" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jarif84112354" height="30" width="40">
