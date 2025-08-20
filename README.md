@@ -2,7 +2,7 @@
 <p align="center">
    <img width=100% src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/kdtixp2oistnku7ervna.gif" alt="hor-colored-line">
 </p>
-<h2 align="left">ABOUT ME:</h2><h4>I am an AI and Cloud Professional based in Noida, India. Currently working on automation and Agentic Ai.<br /> I love doing AI & ML research and integrate it with my experience in various fields.<br /> I specialize in delivering innovative solutions from cloud computing and orchistration to data management and integration.</h4><img align="right" height="280px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner"><br/>
+<h2 align="left">ABOUT ME:</h2><h4>I am an AI and Cloud Professional based in Noida.<br /> I love doing AI & ML research and integrate it with my experience in various fields.<br /> I specialize in delivering innovative solutions from cloud computing and orchistration to data management and integration.</h4><img align="right" height="280px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner"><br/>
 
 <h4>As an AI and Automation Engineer in the fintech space, I've seen firsthand the impact that technology can have on business processes. With a passion for cloud computing and AI, I've honed my skills to help companies like yours scale their operations and unlock new levels of efficiency.
 
