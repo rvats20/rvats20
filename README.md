@@ -3,12 +3,10 @@
    <img width=100% src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/kdtixp2oistnku7ervna.gif" alt="hor-colored-line">
 </p>
 <h2 align="left">ABOUT ME:</h2><h4>I am an AI and Cloud Professional based in Noida.<br /> I love doing AI & ML research and integrate it with my experience in various fields.<br /> I specialize in delivering innovative solutions from cloud computing and orchistration to data management and integration.</h4><img align="right" height="280px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner"><br/>
-
 <h4>As an AI and Automation Engineer in the fintech space, I've seen firsthand the impact that technology can have on business processes. With a passion for cloud computing and AI, I've honed my skills to help companies like yours scale their operations and unlock new levels of efficiency.
-
 When I'm not working on projects, you can find me experimenting with new AI models, learning about the latest cloud trends, or perfecting my coffee-to-code ratio. With a background in computer science and data analytics, I've developed a unique blend of technical expertise and business acumen that allows me to bridge the gap between innovation and practical application.
 
-Whether you're looking to automate manual tasks, build predictive models, or simply optimize your workflow, I'm here to help you achieve your goals.</h4>
+Whether you're looking to automate manual tasks, build predictive models, or simply optimize your workflow, I'm here to help you achieve your goals.</h4></br>
 
  🔭 I am currently working on AI-Agents, Multi-Agent bots, RAG-LLM Applications, HF-Transformers & MLOps.
  
