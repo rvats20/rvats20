@@ -4,8 +4,6 @@
 </p>
 <h2 align="left">ABOUT ME:</h2><h4>I am an AI and Cloud Professional based in Noida, India. Currently working on automation and Agentic Ai.<br /> I love doing AI & ML research and integrate it with my experience in various fields.<br /> I specialize in delivering innovative solutions from cloud computing and orchistration to data management and integration.</h4><img align="right" height="280px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner"><br/><br/><br/>
 
-<h4>I am an AI and Cloud Professional based in Noida, India. Currently working on automation and Agentic Ai.<br /> I love doing AI & ML research and integrate it with my experience in various fields.<br /> I specialize in delivering innovative solutions from cloud computing and orchistration to data management and integration.</h4>
-
  🔭 I am currently working on AI-Agents, Multi-Agent bots, RAG-LLM Applications, HF-Transformers & MLOps.
  
  🤝 I’m learning about computer vision and Multimodel LLM's.
