@@ -1,112 +1,134 @@
-<h1 align="center"><b>Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br /> I'm "RAHUL  VATS"</b></h1>
-<p align="center">
-   <img width=100% src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/kdtixp2oistnku7ervna.gif" alt="hor-colored-line">
+# 👋 Hey, I'm Rahul Vats
+
+**AI/ML Engineer | Cloud Computing Enthusiast | Open Source Contributor**
+
+I'm passionate about building intelligent systems that solve real-world problems. With expertise in AI agents, LLMs, and cloud-native technologies, I help organizations automate complex workflows and extract insights from data.
+
+---
+
+## 🎯 What I Do
+
+- **🤖 AI Agents & Multi-Agent Systems** – Building autonomous agents that reason and act
+- **🧠 LLM Applications** – RAG systems, prompt engineering, and fine-tuning models
+- **☁️ Cloud & MLOps** – Scaling ML workloads with Kubernetes and Docker
+- **📊 Data Science & Analytics** – Predictive modeling and business intelligence
+- **🔄 Automation** – Streamlining business processes with AI
+
+## 🚀 Current Focus
+
+- Developing multi-agent architectures and orchestration frameworks
+- Exploring vision-language models and multimodal LLMs
+- Deep diving into advanced deep learning techniques
+- Researching best practices in MLOps and model deployment
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Core**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
-<h2 align="left">ABOUT ME:</h2><h4>I am an AI-ML and Cloud Professional based in Noida.<br /> I love doing AI & ML research and integrate it with my experience in various fields.<br /> I specialize in delivering innovative solutions from cloud computing and orchistration to data management and integration.</h4><img align="right" height="280px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780512/my-assets/wgw84rloknc2zq9kuxjq.gif" alt="Shreeram-banner"><br/>
-<h4>As an AI and Automation Engineer in the fintech space, I've seen firsthand the impact that technology can have on business processes. With a passion for cloud computing and AI, I've honed my skills to help companies like yours scale their operations and unlock new levels of efficiency.
-When I'm not working on projects, you can find me experimenting with new AI models, learning about the latest cloud trends, or perfecting my coffee-to-code ratio. With a background in computer science and data analytics, I've developed a unique blend of technical expertise and business acumen that allows me to bridge the gap between innovation and practical application.
 
-Whether you're looking to automate manual tasks, build predictive models, or simply optimize your workflow, I'm here to help you achieve your goals.</h4></br>
-
- 🔭 I am currently working on AI-Agents, Multi-Agent bots, RAG-LLM Applications, HF-Transformers & MLOps.
- 
- 🤝 I’m learning about computer vision and Multimodel LLM's.
- 
- 🌱 I’m gaining experience in Deep Learning, predictive analysis.  
-
-
-
-📝 Lets' know more about me, click here [Detailed-Info](https://rvats.in) 
-
-
- 
-📝 All of my blogposts are available ast [Hashnode](https://rvats20.hashnode.dev/?source=top_nav_blog_home)
-
- 
- 
-👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/rahulvats20)
-  
-📫 Post any question or query [Here](https://github.com/rvats20/rvats20/issues)
-  
-<br />
-<br />
-<h3 align="left">Connect with me:</h3><br />
-<p align="left">  
-  <a href="https://twitter.com/rahuldve20" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jarif84112354" height="30" width="40">
-  </a>
-  <a href="https://linkedin.com/in/rahul-vats1/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
-  </a>
-  <a href="https://stackoverflow.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40">
-  </a>
-  <a href="https://kaggle.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40">
-  </a>
-  <a href="https://fb.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40">
-  </a>
-  <a href="https://instagram.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
-  </a>
-  <a href="https://medium.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40">
-  </a>
-  <a href="https://www.hackerrank.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40">
-  </a>
-  <a href="https://discord.gg/rahul1vats" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40">
-  </a>  
-  <br />
-<img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
-<p align="right">
-  <h3>My Projects </h3>
-    <a href="https://github.com/rvats20/Python-Financial-Analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Python-Financial-Analysis&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="Python-Financial-Analysis"></a>
-    <a href="https://github.com/rvats20/RAG-LLM-APP"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=RAG-LLM-APP&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="RAG-LLM-APP"></a>
-    <a href="https://github.com/rvats20/Advance_Python_Learning"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Advance_Python_Learning&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="Advance_Python_Learning"></a>
-    <a href="https://github.com/rvats20/python-ollama"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-ollama&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="python-ollama"></a>
-    <a href="https://github.com/rvats20/streamlit-Dashboard"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=streamlit-Dashboard&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="streamlit-Dashboard"></a>
-    <a href="https://github.com/rvats20/Prompt-Engineering-Guide"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Prompt-Engineering-Guide&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Prompt-Engineering-Guide"></a>
-    <a href="https://github.com/rvats20/Airline-Dashboard"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Airline-Dashboard&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Airline-Dashboard"></a>   
-    <a href="https://github.com/rvats20/CodeCanvas"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=CodeCanvas&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="photo2cartoon"></a>
-    <a href="https://github.com/rvats20/python-keystore-eth"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=python-keystore-eth&theme=neon&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="Python Keystore Eth"></a>  
-  </p>
-<hr />
- <h3 align="left">Languages and Framework:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/></a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> </a>
-</p><hr />
-<br/>
-<hr />
-<br/>
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=rvats20&show_icons=true&locale=en" alt="rvats20" />
-  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=rvats20&" alt="rvats20" />
+**AI & Machine Learning**
+<p>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </p>
-<img src="https://komarev.com/ghpvc/?username=ProfileForrvats20FanofElonmusk&color=orange" alt="rahul" />
-</a>
-</a>
-</a>
-<br />
-<img src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780782/my-assets/border/aahb0wy4ghjnjdbunh9h.gif" alt="hor-border">
-<br />
 
+**Cloud & DevOps**
+<p>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="docker" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes" width="40" height="40"/>
+</p>
 
+**Frameworks & Tools**
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
 
+---
+
+## 📈 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 RAG-LLM Applications</h3>
+      <p>Production-ready RAG systems for intelligent document understanding</p>
+      <a href="https://github.com/rvats20/RAG-LLM-APP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=RAG-LLM-APP&theme=nord" alt="RAG-LLM-APP">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🚀 Advanced Python Learning</h3>
+      <p>Deep dives into Python optimization, async patterns, and best practices</p>
+      <a href="https://github.com/rvats20/Advance_Python_Learning">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Advance_Python_Learning&theme=nord" alt="Advance Python">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💰 Python Financial Analysis</h3>
+      <p>Data-driven financial modeling and analysis with pandas</p>
+      <a href="https://github.com/rvats20/Python-Financial-Analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Python-Financial-Analysis&theme=nord" alt="Financial Analysis">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📊 Airline Dashboard</h3>
+      <p>Real-time analytics and KPI tracking for airline operations</p>
+      <a href="https://github.com/rvats20/Airline-Dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Airline-Dashboard&theme=nord" alt="Airline Dashboard">
+      </a>
+    </td>
+  </tr>
+</table>
+
+→ [View all projects](https://github.com/rvats20?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvats20&show_icons=true&theme=nord&include_all_commits=true" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rvats20&theme=nord" alt="Streak Stats">
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://twitter.com/rahuldve20" target="_blank"><img src="https://img.shields.io/badge/Twitter-@rahuldve20-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/rahul-vats1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Vats-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
+  <a href="https://rvats.in" target="_blank"><img src="https://img.shields.io/badge/Website-rvats.in-34A853?logo=google&logoColor=white&style=flat-square" alt="Website"></a>
+  <a href="https://rvats20.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?logo=hashnode&logoColor=white&style=flat-square" alt="Hashnode"></a>
+  <a href="https://www.kaggle.com/rahulvats20" target="_blank"><img src="https://img.shields.io/badge/Kaggle-rahulvats20-20BEFF?logo=kaggle&logoColor=white&style=flat-square" alt="Kaggle"></a>
+  <a href="https://discord.gg/rahul1vats" target="_blank"><img src="https://img.shields.io/badge/Discord-Join-7289DA?logo=discord&logoColor=white&style=flat-square" alt="Discord"></a>
+</p>
+
+---
+
+## 💬 Let's Collaborate!
+
+I'm always open to discussing:
+- 🤖 AI/ML projects and research
+- ☁️ Cloud architecture and MLOps
+- 📚 Open source contributions
+- 🎯 Automation opportunities
+
+[Ask me anything →](https://github.com/rvats20/rvats20/issues) | [Read my latest blog posts →](https://rvats20.hashnode.dev)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rvats20&color=blue&style=flat-square" alt="Profile Views">
+</div>
