@@ -1,55 +1,54 @@
 # 👋 Hey, I'm Rahul Vats
 
-**AI/ML Engineer | Cloud Computing Enthusiast | Open Source Contributor**
+**Cloud & AI Infrastructure Engineer | Azure · Kubernetes · Terraform · LLM Ops**
 
-I'm passionate about building intelligent systems that solve real-world problems. With expertise in AI agents, LLMs, and cloud-native technologies, I help organizations automate complex workflows and extract insights from data.
+12+ years building and running enterprise-scale cloud infrastructure — Azure & multi-cloud platforms, Kubernetes orchestration, Terraform-based IaC, CI/CD automation, and production-grade observability. Currently deep in AI infrastructure: deploying LLM-based applications and agentic AI workloads on cloud-native foundations.
 
 ---
 
 ## 🎯 What I Do
 
-- **🤖 AI Agents & Multi-Agent Systems** – Building autonomous agents that reason and act
-- **🧠 LLM Applications** – RAG systems, prompt engineering, and fine-tuning models
-- **☁️ Cloud & MLOps** – Scaling ML workloads with Kubernetes and Docker
-- **📊 Data Science & Analytics** – Predictive modeling and business intelligence
-- **🔄 Automation** – Streamlining business processes with AI
+- **☁️ Cloud Infrastructure (Azure/AWS)** – Scalable, secure, highly available platforms for business-critical SaaS workloads
+- **🔧 DevOps & IaC** – Terraform, ARM/Bicep, CI/CD pipelines with Azure DevOps, Jenkins, GitLab
+- **📦 Containers & Orchestration** – Docker, Kubernetes/AKS deployment and operations
+- **📊 Observability & Reliability** – Azure Monitor, Datadog, Prometheus; incident management & DR planning
+- **🤖 AI Infrastructure** – LLM app deployment, agent orchestration (LangGraph, CrewAI, AutoGen), MLOps practices
 
 ## 🚀 Current Focus
 
-- Developing multi-agent architectures and orchestration frameworks
-- Exploring vision-language models and multimodal LLMs
-- Deep diving into advanced deep learning techniques
-- Researching best practices in MLOps and model deployment
+- AI Infrastructure & Cloud Automation Lab — containerized environments for LLM and agentic workloads
+- Terraform-driven automated environment provisioning
+- Centralized logging, caching (Redis), and observability for AI-enabled platforms
+- Kaggle competitions (NLP & LLM classification)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**
+**Cloud Platforms**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</p>
+
+**Infrastructure & Containers**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+</p>
+
+**Languages & Automation**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-**AI & Machine Learning**
+**Data & Monitoring**
 <p>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</p>
-
-**Cloud & DevOps**
-<p>
-  <img src="https://img.icons8.com/color/48/docker.png" alt="docker" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes" width="40" height="40"/>
-</p>
-
-**Frameworks & Tools**
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
 </p>
 
 ---
@@ -59,33 +58,33 @@ I'm passionate about building intelligent systems that solve real-world problems
 <table>
   <tr>
     <td width="50%">
-      <h3>🧠 RAG-LLM Applications</h3>
-      <p>Production-ready RAG systems for intelligent document understanding</p>
-      <a href="https://github.com/rvats20/RAG-LLM-APP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=RAG-LLM-APP&theme=nord" alt="RAG-LLM-APP">
+      <h3>🧠 LLM Classification Finetuning</h3>
+      <p>Fine-tuning large language models for text classification tasks (Kaggle LLM classification)</p>
+      <a href="https://github.com/rvats20/LLM-Classification-Finetuning">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=LLM-Classification-Finetuning&theme=nord" alt="LLM Classification Finetuning">
       </a>
     </td>
     <td width="50%">
-      <h3>🚀 Advanced Python Learning</h3>
-      <p>Deep dives into Python optimization, async patterns, and best practices</p>
-      <a href="https://github.com/rvats20/Advance_Python_Learning">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Advance_Python_Learning&theme=nord" alt="Advance Python">
+      <h3>📈 market-monitor</h3>
+      <p>Real-time Nifty 50 & Sensex monitor with RSI/MACD/EMA signals via Upstox API</p>
+      <a href="https://github.com/rvats20/market-monitor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=market-monitor&theme=nord" alt="market-monitor">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>💰 Python Financial Analysis</h3>
-      <p>Data-driven financial modeling and analysis with pandas</p>
-      <a href="https://github.com/rvats20/Python-Financial-Analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Python-Financial-Analysis&theme=nord" alt="Financial Analysis">
+      <h3>🛒 AutoProcure-AI</h3>
+      <p>Autonomous web agent that automates procurement — searches supplier sites, navigates messy interfaces, fills RFQs, collects quotes</p>
+      <a href="https://github.com/rvats20/AutoProcure-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=AutoProcure-AI&theme=nord" alt="AutoProcure-AI">
       </a>
     </td>
     <td width="50%">
-      <h3>📊 Airline Dashboard</h3>
-      <p>Real-time analytics and KPI tracking for airline operations</p>
-      <a href="https://github.com/rvats20/Airline-Dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Airline-Dashboard&theme=nord" alt="Airline Dashboard">
+      <h3>💰 Python Financial Analysis</h3>
+      <p>Data-driven financial modeling and analysis scripts and notebooks with pandas</p>
+      <a href="https://github.com/rvats20/Python-Financial-Analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvats20&repo=Python-Financial-Analysis&theme=nord" alt="Financial Analysis">
       </a>
     </td>
   </tr>
@@ -104,15 +103,22 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
+## 🏅 Certifications
+
+- CompTIA Cloud Essentials+
+- Microsoft Azure Fundamentals (AZ-900)
+- Azure Administrator Associate (AZ-104) — in progress
+- SQL for Data Science
+
+---
+
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://twitter.com/rahuldve20" target="_blank"><img src="https://img.shields.io/badge/Twitter-@rahuldve20-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/rahul-vats1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Vats-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
-  <a href="https://rvats.in" target="_blank"><img src="https://img.shields.io/badge/Website-rvats.in-34A853?logo=google&logoColor=white&style=flat-square" alt="Website"></a>
-  <a href="https://rvats20.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?logo=hashnode&logoColor=white&style=flat-square" alt="Hashnode"></a>
+  <a href="https://linkedin.com/in/rahulvatts" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Vats-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
   <a href="https://www.kaggle.com/rahulvats20" target="_blank"><img src="https://img.shields.io/badge/Kaggle-rahulvats20-20BEFF?logo=kaggle&logoColor=white&style=flat-square" alt="Kaggle"></a>
-  <a href="https://discord.gg/rahul1vats" target="_blank"><img src="https://img.shields.io/badge/Discord-Join-7289DA?logo=discord&logoColor=white&style=flat-square" alt="Discord"></a>
+  <a href="https://x.com/rahuldve20" target="_blank"><img src="https://img.shields.io/badge/X-@rahuldve20-000000?logo=x&logoColor=white&style=flat-square" alt="X"></a>
+  <a href="mailto:rahul.kr20@live.com"><img src="https://img.shields.io/badge/Email-rahul.kr20@live.com-EA4335?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
 </p>
 
 ---
@@ -120,12 +126,12 @@ I'm passionate about building intelligent systems that solve real-world problems
 ## 💬 Let's Collaborate!
 
 I'm always open to discussing:
-- 🤖 AI/ML projects and research
-- ☁️ Cloud architecture and MLOps
-- 📚 Open source contributions
-- 🎯 Automation opportunities
+- ☁️ Cloud architecture, migration, and platform reliability
+- 🤖 AI infrastructure and LLM application deployment
+- 🔧 DevOps automation and IaC
+- 📊 Kaggle / applied ML projects
 
-[Ask me anything →](https://github.com/rvats20/rvats20/issues) | [Read my latest blog posts →](https://rvats20.hashnode.dev)
+[Ask me anything →](https://github.com/rvats20/rvats20/issues)
 
 ---
 
