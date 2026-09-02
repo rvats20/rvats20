@@ -23,7 +23,33 @@
 
 ---
 
+## 🏅 Certifications
 
+- CompTIA Cloud Essentials+
+- Microsoft Azure Fundamentals (AZ-900)
+- Azure Administrator Associate (AZ-104) — in progress
+- SQL for Data Science
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/rahulvatts" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Vats-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/rahulvats20" target="_blank"><img src="https://img.shields.io/badge/Kaggle-rahulvats20-20BEFF?logo=kaggle&logoColor=white&style=flat-square" alt="Kaggle"></a>
+  <a href="https://x.com/rahuldve20" target="_blank"><img src="https://img.shields.io/badge/X-@rahuldve20-000000?logo=x&logoColor=white&style=flat-square" alt="X"></a>
+  <a href="mailto:rahul.kr20@live.com"><img src="https://img.shields.io/badge/Email-rahul.kr20@live.com-EA4335?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
+</p>
+
+---
+
+## 💬 Let's Collaborate!
+
+I'm always open to discussing:
+- ☁️ Cloud architecture, migration, and platform reliability
+- 🤖 AI infrastructure and LLM application deployment
+- 🔧 DevOps automation and IaC
+- 📊 Kaggle / applied ML projects
 
 ---
 
@@ -77,33 +103,7 @@
 
 ---
 
-## 🏅 Certifications
 
-- CompTIA Cloud Essentials+
-- Microsoft Azure Fundamentals (AZ-900)
-- Azure Administrator Associate (AZ-104) — in progress
-- SQL for Data Science
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/rahulvatts" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Vats-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
-  <a href="https://www.kaggle.com/rahulvats20" target="_blank"><img src="https://img.shields.io/badge/Kaggle-rahulvats20-20BEFF?logo=kaggle&logoColor=white&style=flat-square" alt="Kaggle"></a>
-  <a href="https://x.com/rahuldve20" target="_blank"><img src="https://img.shields.io/badge/X-@rahuldve20-000000?logo=x&logoColor=white&style=flat-square" alt="X"></a>
-  <a href="mailto:rahul.kr20@live.com"><img src="https://img.shields.io/badge/Email-rahul.kr20@live.com-EA4335?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
-</p>
-
----
-
-## 💬 Let's Collaborate!
-
-I'm always open to discussing:
-- ☁️ Cloud architecture, migration, and platform reliability
-- 🤖 AI infrastructure and LLM application deployment
-- 🔧 DevOps automation and IaC
-- 📊 Kaggle / applied ML projects
 
 [Ask me anything →](https://github.com/rvats20/rvats20/issues)
 
